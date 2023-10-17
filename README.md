@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @rjaada
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/levi/rjaada?1337Badge=off&UM6P=off" alt="rjaada's 42 stats" /></a>
 
 <!---
