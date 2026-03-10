@@ -30,7 +30,7 @@ Student at **42 Málaga**, focused on systems programming and low-level developm
 
 ## GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=rjaada&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=ffffff&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=c9d1d9&dates=c9d1d9)](https://git.io/streak-stats) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rjaada&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=rjaada&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=ffffff&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=c9d1d9&dates=c9d1d9)](https://git.io/streak-stats) ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rjaada&theme=github_dark)
 
 ---
 
